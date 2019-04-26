@@ -1,6 +1,6 @@
 #!C:\Users\XOR SOLUTIONS\AppData\Local\Programs\Python\Python37-32\python.exe
 
-print("Content-Type: text/html\n")
+printer("Content-Type: text/html\n")
 print ("Hello Python Web Browser!! This is cool!!" + "<br>")
 
 
